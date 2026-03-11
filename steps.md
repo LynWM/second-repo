@@ -4,7 +4,8 @@ These are the following steps taken in creating the local repository, all the wa
 
 ## Creating Local Repository
 
-In the directory mod1, make a new repository 'second-repo' - mkdir second-repo
+In the directory mod1, make a new repository 'second-repo' - mkdir second-repo.
+
 Change to that directory - cd second-repo
 Initialize Git repository - git init
 Create files - touch README.md steps.md
